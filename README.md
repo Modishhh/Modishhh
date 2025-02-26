@@ -17,7 +17,7 @@ Hit me up anytime:
 ## 🛠️ My Tech Stack  
 Here’s what I’m rocking:  
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)]()  
-[![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)]()  
+[![JavaScript](https://img.shields.io/badge/javascript-blue?logo=javascript)]()  
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()  
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()  
 [![Coffee](https://img.shields.io/badge/Caffeine-6F4E37?style=for-the-badge&logo=coffeescript&logoColor=white)]()  
