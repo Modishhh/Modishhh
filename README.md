@@ -9,9 +9,9 @@ Welcome to my GitHub galaxy — glad you stopped by!
 
 ## 📬 Get in Touch  
 Hit me up anytime:  
-[![Email](https://img.shields.io/badge/Email-brazy@example.com-brightgreen?style=for-the-badge&logo=gmail)](mailto:modish@m0dish.dev)  
-[![Discord](https://img.shields.io/badge/Discord-brazyuk-7289DA?style=for-the-badge&logo=discord)](https://discord.com/users/modish)  
-[![Twitter](https://img.shields.io/badge/Twitter-@BrazyDev-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/Modish)  
+[![Email](https://img.shields.io/badge/Email-modish@m0dish.dev-brightgreen?style=for-the-badge&logo=gmail)](mailto:modish@m0dish.dev)  
+[![Discord](https://img.shields.io/badge/Discord-modish-7289DA?style=for-the-badge&logo=discord)](https://discord.com/users/modish)  
+[![Twitter](https://img.shields.io/badge/Twitter-@Modish-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/Modish)  
 
 
 ## 🛠️ My Tech Stack  
