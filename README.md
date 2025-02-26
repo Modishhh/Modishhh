@@ -27,7 +27,7 @@ Peep my coding hustle:
 <img style="height: 30vh;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Modishhh&show_icons=true&theme=holi" alt="Top Languages"> <img style="height: 30vh;" src="https://github-readme-stats.vercel.app/api?username=Modishhh&show_icons=true&theme=holi" alt="GitHub Stats">
 
 ## 🏆 Achievements  
-- Survived my first C++ segmentation fault.  
+- Survived my first 25 C++ segmentation faults.  
 - Built Multiple Solana Tools.  
 
 ## 🌟 What’s Next?  
