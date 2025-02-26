@@ -21,7 +21,6 @@ Here’s what I’m rocking:
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()  
 [![Coffee](https://img.shields.io/badge/Caffeine-6F4E37?style=for-the-badge&logo=coffeescript&logoColor=white)]()  
 
-*Add more buttons by grabbing badge links from [shields.io](https://shields.io/) and tweaking the colors to your liking!*  
 
 ## 📊 My GitHub Stats  
 Peep my coding hustle:  
